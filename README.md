@@ -1,4 +1,6 @@
 # QobuzDL-Browser
+![Image](https://i.ibb.co/SQNP1sD/image-2023-02-25-232835197.png)
+
 Qobuz Downloader Tool for Browser Extension
 
 
@@ -23,3 +25,4 @@ Edge
 3. Drag and Drop the `QobuzDL.crx` to your Extension Tab
 
 #### [Video Guide on How to Use The Extension](https://dood.yt/d/5o0rwqg4kxbh)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O3D65S3)
