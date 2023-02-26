@@ -24,5 +24,7 @@ Edge
 2. Open Extension Tab and Enable "Developer Mode".
 3. Drag and Drop the `QobuzDL.crx` to your Extension Tab
 
+if it doesn't work when importing extension try to rename `QobuzDL.crx` to `QobuzDL.zip`.
+
 #### [Video Guide on How to Use The Extension](https://dood.yt/d/5o0rwqg4kxbh)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O3D65S3)
