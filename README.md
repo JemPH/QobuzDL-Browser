@@ -1,5 +1,8 @@
 # QobuzDL-Browser
+V1.0
 ![Image](https://i.ibb.co/SQNP1sD/image-2023-02-25-232835197.png)
+V1.1
+![Image1](https://i.ibb.co/2h56LkB/EDkcnkejgz.png)
 
 Qobuz Downloader Tool for Browser Extension
 
